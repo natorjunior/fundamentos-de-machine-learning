@@ -1,6 +1,7 @@
 # Links e materiais
 
-
+Aula-02
+- https://colab.research.google.com/drive/1KYrV6xL4WIf4JJBlB2aLcn79IZ2KIAoY?usp=sharing
 
 aula-04
 - slide
