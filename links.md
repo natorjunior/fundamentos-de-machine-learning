@@ -9,3 +9,6 @@ aula-04
 - colab load datset IRIS
   - https://colab.research.google.com/drive/1FysTgOn0rtbp-hEguhQaoX6I3rZbrGIu?usp=sharing
 
+Aula-05
+- slide 
+  - https://docs.google.com/presentation/d/1KE6P08ad6if4-3atDzAmYIjXSO3t3Ap3/edit?usp=sharing&ouid=101298811958848235228&rtpof=true&sd=true
