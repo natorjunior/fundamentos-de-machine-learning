@@ -12,3 +12,5 @@ aula-04
 Aula-05
 - slide 
   - https://docs.google.com/presentation/d/1KE6P08ad6if4-3atDzAmYIjXSO3t3Ap3/edit?usp=sharing&ouid=101298811958848235228&rtpof=true&sd=true
+- Lendo o dataset IRIS
+  - [https://colab.research.google.com/drive/1FysTgOn0rtbp-hEguhQaoX6I3rZbrGIu?usp=sharing](https://colab.research.google.com/drive/1pldX9-OMWuMe1x3bIiPsGYXmpP-7j2jI?usp=sharing)
